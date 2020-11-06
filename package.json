@@ -40,5 +40,8 @@
     "uglify-js": "=3.4.8",
     "zlibjs": "^0.3.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "fflate": "^0.3.3",
+    "uzip": "^0.20201106.0"
+  }
 }
